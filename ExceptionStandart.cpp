@@ -6,5 +6,12 @@ using namespace std;
 
 int main()
 {
-    
+
+    cout << "Awal progeam" << endl; //penanda 1
+    try
+    {
+
+    }
+
+    catch (exception& e)
 }
