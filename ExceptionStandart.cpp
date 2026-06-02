@@ -19,5 +19,7 @@ int main()
     catch (exception& e)
     {
 
+        cout << e.what() << endl; 
     }
+    
 }
