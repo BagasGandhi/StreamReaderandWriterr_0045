@@ -51,5 +51,7 @@ int main()
         {
             cout << baris << endl;
         }
+        //menutuo file jika telah selesai di loop
+        infile.close();
     }
 }
